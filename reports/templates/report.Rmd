@@ -1,0 +1,28 @@
+```{r echo=FALSE}
+read_chunk('../helpers/report.R')
+```
+
+* Did politicians claim expenses during key sporting events?
+
+    - http://www.theguardian.com/australia-news/2015/jul/06/mps-claim-more-than-27000-on-flights-travel-and-comcars-to-free-sports-events
+
+* Did they attend other events?
+
+    - http://www.theguardian.com/world/2013/oct/06/chris-bowen-coalition-wedding-expense-claims
+
+    - http://www.theguardian.com/australia-news/2015/jul/02/mps-claim-almost-10000-in-travel-expenses-for-pollie-pedal-fundraiser
+
+* birthdays, weddings, festivals or sports matches.
+
+***
+
+# Title
+
+* **Observation.** Something.
+
+* **Take out.** something else.
+
+```{r echo = FALSE, fig.cap='Example of a graph', example}
+```
+
+***
